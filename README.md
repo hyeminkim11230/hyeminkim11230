@@ -39,7 +39,6 @@ Java와 Spring을 주력으로 사용하며, 다양한 데이터베이스와의 
 </div>
 <a href="https://github.com/hyeminkim11230"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeminkim11230&layout=compact&theme=nord&hide_border=true" /></a>  <br>
 
-[![HYEMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeminkim11230&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/hyeminkim11230/github-readme-stats)
 
 
 ## 📞 Contact 📞
